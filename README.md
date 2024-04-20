@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Triumphant <br>👀 I’m interested in Artificial intelligence, Machine learning, Deep learning,GENAI,LLMs, AI Research, AI in Medicine, Computer Vision, and predictive Analytics<br>🌱 I’m currently learning Integrating AI models with Edge Technologies<br>💞️ I’m looking to collaborate on AI/ML/Deep learning and Computer Vision projects<br>📫 How to reach me @ akinolababalola20@gmail.com and https://twitter.com/triobaba<br>⚡ Fun fact- I Love Reading- Tech Researching 
+👋 Hi, I’m Triumphant <br>👀 I’m interested in Artificial intelligence, Machine learning, Deep learning,GENAI,LLMs, AI Research, AI in Medicine, Computer Vision,MLops and predictive Analytics<br>🌱 I’m currently learning Integrating AI models with Edge Technologies<br>💞️ I’m looking to collaborate on AI/ML/Deep learning and Computer Vision projects<br>📫 How to reach me @ akinolababalola20@gmail.com and https://twitter.com/triobaba<br>⚡ Fun fact- I Love Reading- Tech Researching 
 
 
 ## 🌐 Socials:
